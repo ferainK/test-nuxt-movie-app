@@ -1,0 +1,22 @@
+nodejs 관리
+- vue 삭제
+  - vue
+  - vue-router
+  - vuex
+- netlify 삭제
+  - netlify-cli
+- webpack 삭제
+  - webpack
+  - webpack-cli
+  - webpack-dev-server
+  - html-webpack-plugin
+  - copy-webpack-plugin
+  - css-loader
+  - style-loader 
+  - `[netlify]` 
+    - dotenv-webpack <br>
+  - `[vue]`
+    - file-loader
+    - vue-loader
+    - vue-style-loader
+    - vue-template-compiler
